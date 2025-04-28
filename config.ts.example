@@ -1,0 +1,12 @@
+export default  {
+    "discord": {
+        "token": "",
+        "prefix": "x!",
+        "adminIds": [
+            "1234"
+        ],
+        "whitelistedIDs": [
+            "1234"
+        ]
+    }
+}
