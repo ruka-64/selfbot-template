@@ -13,7 +13,8 @@
   "packageManager": "pnpm@10.9.0",
   "dependencies": {
     "discord.js-selfbot-v13": "^3.6.1",
-    "picocolors": "^1.1.1"
+    "picocolors": "^1.1.1",
+    "tsx": "^4.19.3"
   },
   "devDependencies": {
     "@types/node": "^22.15.3"
